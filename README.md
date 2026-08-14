@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivanshu-web/Leetcode/tree/master/0118-pascals-triangle) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivanshu-web/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shivanshu-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanshu-web/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
