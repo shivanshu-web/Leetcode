@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/shivanshu-web/Leetcode/tree/master/0118-pascals-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivanshu-web/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshu-web/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanshu-web/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanshu-web/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
