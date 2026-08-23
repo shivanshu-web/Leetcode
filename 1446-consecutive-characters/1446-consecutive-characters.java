@@ -15,6 +15,7 @@ class Solution {
                 
             }else{
                 left = right;
+                right++;
             }
             
 
