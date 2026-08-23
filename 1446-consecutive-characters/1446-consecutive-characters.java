@@ -7,11 +7,16 @@ class Solution {
 
         while(right<s.length()){
             if(s.charAt(left)==s.charAt(right)){
-                maxLen = Math.max(maxLen,right-left+1);
+
+                if(maxLen<right-left+1){
+                    maxLen = right-left+1;
+                }
                 right++;
+                
             }else{
                 left = right;
             }
+            
 
         }
 
