@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshu-web/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanshu-web/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/shivanshu-web/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanshu-web/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanshu-web/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivanshu-web/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanshu-web/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/shivanshu-web/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/shivanshu-web/Leetcode/tree/master/1446-consecutive-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivanshu-web/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivanshu-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
