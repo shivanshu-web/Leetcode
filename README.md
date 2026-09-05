@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivanshu-web/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshu-web/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivanshu-web/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/shivanshu-web/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshu-web/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivanshu-web/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
@@ -141,4 +143,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shivanshu-web/Leetcode/tree/master/0383-ransom-note) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
