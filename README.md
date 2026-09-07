@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshu-web/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/shivanshu-web/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivanshu-web/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivanshu-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshu-web/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivanshu-web/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshu-web/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/shivanshu-web/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
