@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivanshu-web/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shivanshu-web/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshu-web/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshu-web/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shivanshu-web/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanshu-web/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/shivanshu-web/Leetcode/tree/master/1200-minimum-absolute-difference) |
