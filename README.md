@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/shivanshu-web/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanshu-web/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shivanshu-web/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shivanshu-web/Leetcode/tree/master/0704-binary-search) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/shivanshu-web/Leetcode/tree/master/1323-maximum-69-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivanshu-web/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
