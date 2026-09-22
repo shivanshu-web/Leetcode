@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivanshu-web/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shivanshu-web/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/shivanshu-web/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shivanshu-web/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shivanshu-web/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanshu-web/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivanshu-web/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/shivanshu-web/Leetcode/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shivanshu-web/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String Matching
