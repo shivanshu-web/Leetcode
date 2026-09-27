@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivanshu-web/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/shivanshu-web/Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivanshu-web/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshu-web/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivanshu-web/Leetcode/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivanshu-web/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivanshu-web/Leetcode/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shivanshu-web/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
