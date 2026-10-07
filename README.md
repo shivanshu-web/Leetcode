@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshu-web/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/shivanshu-web/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shivanshu-web/Leetcode/tree/master/0383-ransom-note) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shivanshu-web/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivanshu-web/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/shivanshu-web/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivanshu-web/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivanshu-web/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/shivanshu-web/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivanshu-web/Leetcode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/shivanshu-web/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivanshu-web/Leetcode/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shivanshu-web/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
