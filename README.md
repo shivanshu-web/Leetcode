@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shivanshu-web/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shivanshu-web/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanshu-web/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanshu-web/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivanshu-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shivanshu-web/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/shivanshu-web/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1446-consecutive-characters](https://github.com/shivanshu-web/Leetcode/tree/master/1446-consecutive-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shivanshu-web/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivanshu-web/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivanshu-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shivanshu-web/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
