@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivanshu-web/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshu-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivanshu-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/shivanshu-web/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivanshu-web/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/shivanshu-web/Leetcode/tree/master/1323-maximum-69-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshu-web/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Newton's Method
 |  |
