@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shivanshu-web/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivanshu-web/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/shivanshu-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/shivanshu-web/Leetcode/tree/master/1323-maximum-69-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shivanshu-web/Leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/shivanshu-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivanshu-web/Leetcode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
