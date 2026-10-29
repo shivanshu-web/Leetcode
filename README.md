@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shivanshu-web/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shivanshu-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/shivanshu-web/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivanshu-web/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/shivanshu-web/Leetcode/tree/master/1323-maximum-69-number) |
