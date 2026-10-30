@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivanshu-web/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shivanshu-web/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/shivanshu-web/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivanshu-web/Leetcode/tree/master/0509-fibonacci-number) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shivanshu-web/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivanshu-web/Leetcode/tree/master/0509-fibonacci-number) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
