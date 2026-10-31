@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivanshu-web/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shivanshu-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivanshu-web/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/shivanshu-web/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1672-richest-customer-wealth](https://github.com/shivanshu-web/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivanshu-web/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivanshu-web/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shivanshu-web/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shivanshu-web/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivanshu-web/Leetcode/tree/master/0509-fibonacci-number) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/shivanshu-web/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/shivanshu-web/Leetcode/tree/master/1323-maximum-69-number) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/shivanshu-web/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshu-web/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshu-web/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Newton's Method
