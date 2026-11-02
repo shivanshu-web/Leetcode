@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanshu-web/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivanshu-web/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/shivanshu-web/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shivanshu-web/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivanshu-web/Leetcode/tree/master/0724-find-pivot-index) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivanshu-web/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/shivanshu-web/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanshu-web/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/shivanshu-web/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/shivanshu-web/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshu-web/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/shivanshu-web/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/shivanshu-web/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivanshu-web/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/shivanshu-web/Leetcode/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/shivanshu-web/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshu-web/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivanshu-web/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
