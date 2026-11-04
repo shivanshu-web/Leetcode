@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshu-web/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shivanshu-web/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanshu-web/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shivanshu-web/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivanshu-web/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivanshu-web/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivanshu-web/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shivanshu-web/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivanshu-web/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshu-web/Leetcode/tree/master/0242-valid-anagram) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shivanshu-web/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanshu-web/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshu-web/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shivanshu-web/Leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/shivanshu-web/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shivanshu-web/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
 ## Binary Indexed Tree
@@ -362,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/shivanshu-web/Leetcode/tree/master/0372-super-pow) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivanshu-web/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
