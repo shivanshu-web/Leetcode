@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivanshu-web/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivanshu-web/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshu-web/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivanshu-web/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshu-web/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivanshu-web/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanshu-web/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shivanshu-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/shivanshu-web/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivanshu-web/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivanshu-web/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivanshu-web/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivanshu-web/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivanshu-web/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivanshu-web/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String Matching
 |  |
 | ------- |
