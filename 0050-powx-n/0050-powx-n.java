@@ -17,6 +17,7 @@ class Solution {
             return 1/pow(x,n);
         }
        return pow(x,n);
+    
 
         
     }
