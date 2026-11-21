@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivanshu-web/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivanshu-web/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/shivanshu-web/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shivanshu-web/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivanshu-web/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivanshu-web/Leetcode/tree/master/0525-contiguous-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivanshu-web/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshu-web/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivanshu-web/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shivanshu-web/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/shivanshu-web/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/shivanshu-web/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/shivanshu-web/Leetcode/tree/master/1200-minimum-absolute-difference) |
